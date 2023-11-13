@@ -15,3 +15,15 @@ Os pilares da segurança de dados que devem ser considerados ao projetar um novo
 6. **Privacidade**: Garante que os dados pessoais sejam protegidos de acordo com as leis e regulamentos aplicáveis. Isso pode ser alcançado através de políticas de privacidade, consentimento do usuário e anonimização de dados.
 
 Lembre-se, a segurança dos dados é um processo contínuo que requer monitoramento e atualizações regulares para se manter eficaz contra ameaças emergentes. É importante também considerar a conformidade com as leis e regulamentos locais e internacionais de proteção de dados.
+
+## segurança na senha
+
+Aqui estão três métodos para fortalecer suas senhas:
+
+1. **Complexidade**: Use uma combinação de letras maiúsculas e minúsculas, números e símbolos. Isso torna a senha mais difícil de adivinhar.
+
+2. **Comprimento**: Uma senha mais longa é geralmente mais segura, então tente usar uma senha que tenha pelo menos 12 caracteres.
+
+3. **Unicidade**: Evite usar informações pessoais óbvias, como seu nome, data de nascimento ou nome de animais de estimação. Além disso, não use a mesma senha para várias contas.
+
+Lembre-se, é importante alterar suas senhas regularmente e não compartilhá-las com outras pessoas. Mantenha suas informações seguras!
